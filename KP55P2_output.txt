@@ -1,0 +1,702 @@
+KPMacAir:src kx5hu$ javac p2_22f_kp55.java
+KPMacAir:src kx5hu$ java p2_22f_kp55 prog2test.txt
+Project 2 for CS 341
+Section number:  005
+Semester: Fall 2022
+Written by: Krishna Patel, kp55
+Instructor: Marvin Nakayama, marvin@njit.edu
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %381.5886%
+Starting at state q0
+%, ε -> %
+At state q1
+3, ε -> ε
+At state q4
+8, ε -> ε
+At state q4
+1, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+5, ε -> ε
+At state q5
+8, ε -> ε
+At state q5
+8, ε -> ε
+At state q5
+6, ε -> ε
+At state q5
+%, % -> ε
+At state q7
+Accepted at state q7
+
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %.8+7.-8.00/90.765+%
+Starting at state q0
+%, ε -> %
+At state q1
+., ε -> ε
+At state q2
+8, ε -> ε
+At state q3
++, ε -> ε
+At state q1
+7, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+-, ε -> ε
+At state q1
+8, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+0, ε -> ε
+At state q5
+0, ε -> ε
+At state q5
+/, ε -> ε
+At state q1
+9, ε -> ε
+At state q4
+0, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+7, ε -> ε
+At state q5
+6, ε -> ε
+At state q5
+5, ε -> ε
+At state q5
++, ε -> ε
+At state q1
+Crashed at q1
+
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %7956.+.492*341.2/060.10/52581.263-.9+.53/7.%
+Starting at state q0
+%, ε -> %
+At state q1
+7, ε -> ε
+At state q4
+9, ε -> ε
+At state q4
+5, ε -> ε
+At state q4
+6, ε -> ε
+At state q4
+., ε -> ε
+At state q5
++, ε -> ε
+At state q1
+., ε -> ε
+At state q2
+4, ε -> ε
+At state q3
+9, ε -> ε
+At state q3
+2, ε -> ε
+At state q3
+*, ε -> ε
+At state q1
+3, ε -> ε
+At state q4
+4, ε -> ε
+At state q4
+1, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+2, ε -> ε
+At state q5
+/, ε -> ε
+At state q1
+0, ε -> ε
+At state q4
+6, ε -> ε
+At state q4
+0, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+1, ε -> ε
+At state q5
+0, ε -> ε
+At state q5
+/, ε -> ε
+At state q1
+5, ε -> ε
+At state q4
+2, ε -> ε
+At state q4
+5, ε -> ε
+At state q4
+8, ε -> ε
+At state q4
+1, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+2, ε -> ε
+At state q5
+6, ε -> ε
+At state q5
+3, ε -> ε
+At state q5
+-, ε -> ε
+At state q1
+., ε -> ε
+At state q2
+9, ε -> ε
+At state q3
++, ε -> ε
+At state q1
+., ε -> ε
+At state q2
+5, ε -> ε
+At state q3
+3, ε -> ε
+At state q3
+/, ε -> ε
+At state q1
+7, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+%, % -> ε
+At state q7
+Accepted at state q7
+
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %382.89*34%
+Starting at state q0
+%, ε -> %
+At state q1
+3, ε -> ε
+At state q4
+8, ε -> ε
+At state q4
+2, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+8, ε -> ε
+At state q5
+9, ε -> ε
+At state q5
+*, ε -> ε
+At state q1
+3, ε -> ε
+At state q4
+4, ε -> ε
+At state q4
+Crashed at q4
+
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %4.239-.*7.29%
+Starting at state q0
+%, ε -> %
+At state q1
+4, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+2, ε -> ε
+At state q5
+3, ε -> ε
+At state q5
+9, ε -> ε
+At state q5
+-, ε -> ε
+At state q1
+., ε -> ε
+At state q2
+Crashed at q2
+
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %6.88.6+32.208%
+Starting at state q0
+%, ε -> %
+At state q1
+6, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+8, ε -> ε
+At state q5
+8, ε -> ε
+At state q5
+Crashed at q5
+
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %(1.2+(3.4-.9)/39).3%
+Starting at state q0
+%, ε -> %
+At state q1
+(, ε -> (
+At state q1
+1, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+2, ε -> ε
+At state q5
++, ε -> ε
+At state q1
+(, ε -> (
+At state q1
+3, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+4, ε -> ε
+At state q5
+-, ε -> ε
+At state q1
+., ε -> ε
+At state q2
+9, ε -> ε
+At state q3
+), ( -> ε
+At state q6
+/, ε -> ε 
+At state q1
+3, ε -> ε
+At state q4
+9, ε -> ε
+At state q4
+Crashed at q4
+
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %(.3)64%
+Starting at state q0
+%, ε -> %
+At state q1
+(, ε -> (
+At state q1
+., ε -> ε
+At state q2
+3, ε -> ε
+At state q3
+), ( -> ε
+At state q6
+Crashed at q6
+
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %((824.23+(9.22-00.0)*21.2))+((.2/7.))%
+Starting at state q0
+%, ε -> %
+At state q1
+(, ε -> (
+At state q1
+(, ε -> (
+At state q1
+8, ε -> ε
+At state q4
+2, ε -> ε
+At state q4
+4, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+2, ε -> ε
+At state q5
+3, ε -> ε
+At state q5
++, ε -> ε
+At state q1
+(, ε -> (
+At state q1
+9, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+2, ε -> ε
+At state q5
+2, ε -> ε
+At state q5
+-, ε -> ε
+At state q1
+0, ε -> ε
+At state q4
+0, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+0, ε -> ε
+At state q5
+), ( -> ε
+At state q6
+*, ε -> ε 
+At state q1
+2, ε -> ε
+At state q4
+1, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+2, ε -> ε
+At state q5
+), ( -> ε
+At state q6
+), ( -> ε
+At state q6
++, ε -> ε 
+At state q1
+(, ε -> (
+At state q1
+(, ε -> (
+At state q1
+., ε -> ε
+At state q2
+2, ε -> ε
+At state q3
+/, ε -> ε
+At state q1
+7, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+), ( -> ε
+At state q6
+), ( -> ε
+At state q6
+%, % -> ε
+At state q7
+Accepted at state q7
+
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %(())%
+Starting at state q0
+%, ε -> %
+At state q1
+(, ε -> (
+At state q1
+(, ε -> (
+At state q1
+Crashed at q1
+
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %((14.252+(692.211*(.39+492.1))/49.235)%
+Starting at state q0
+%, ε -> %
+At state q1
+(, ε -> (
+At state q1
+(, ε -> (
+At state q1
+1, ε -> ε
+At state q4
+4, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+2, ε -> ε
+At state q5
+5, ε -> ε
+At state q5
+2, ε -> ε
+At state q5
++, ε -> ε
+At state q1
+(, ε -> (
+At state q1
+6, ε -> ε
+At state q4
+9, ε -> ε
+At state q4
+2, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+2, ε -> ε
+At state q5
+1, ε -> ε
+At state q5
+1, ε -> ε
+At state q5
+*, ε -> ε
+At state q1
+(, ε -> (
+At state q1
+., ε -> ε
+At state q2
+3, ε -> ε
+At state q3
+9, ε -> ε
+At state q3
++, ε -> ε
+At state q1
+4, ε -> ε
+At state q4
+9, ε -> ε
+At state q4
+2, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+1, ε -> ε
+At state q5
+), ( -> ε
+At state q6
+), ( -> ε
+At state q6
+/, ε -> ε 
+At state q1
+4, ε -> ε
+At state q4
+9, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+2, ε -> ε
+At state q5
+3, ε -> ε
+At state q5
+5, ε -> ε
+At state q5
+), ( -> ε
+At state q6
+Crashed at q6
+
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %+6.5%
+Starting at state q0
+%, ε -> %
+At state q1
+Crashed at q1
+
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %26.0*(.87/((4.+.2)/(23.531)-2.9)+6.)/(((823.*.333-57.*8.0)/.33+.0))%
+Starting at state q0
+%, ε -> %
+At state q1
+2, ε -> ε
+At state q4
+6, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+0, ε -> ε
+At state q5
+*, ε -> ε
+At state q1
+(, ε -> (
+At state q1
+., ε -> ε
+At state q2
+8, ε -> ε
+At state q3
+7, ε -> ε
+At state q3
+/, ε -> ε
+At state q1
+(, ε -> (
+At state q1
+(, ε -> (
+At state q1
+4, ε -> ε
+At state q4
+., ε -> ε
+At state q5
++, ε -> ε
+At state q1
+., ε -> ε
+At state q2
+2, ε -> ε
+At state q3
+), ( -> ε
+At state q6
+/, ε -> ε 
+At state q1
+(, ε -> (
+At state q1
+2, ε -> ε
+At state q4
+3, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+5, ε -> ε
+At state q5
+3, ε -> ε
+At state q5
+1, ε -> ε
+At state q5
+), ( -> ε
+At state q6
+-, ε -> ε 
+At state q1
+2, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+9, ε -> ε
+At state q5
+), ( -> ε
+At state q6
++, ε -> ε 
+At state q1
+6, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+), ( -> ε
+At state q6
+/, ε -> ε 
+At state q1
+(, ε -> (
+At state q1
+(, ε -> (
+At state q1
+(, ε -> (
+At state q1
+8, ε -> ε
+At state q4
+2, ε -> ε
+At state q4
+3, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+*, ε -> ε
+At state q1
+., ε -> ε
+At state q2
+3, ε -> ε
+At state q3
+3, ε -> ε
+At state q3
+3, ε -> ε
+At state q3
+-, ε -> ε
+At state q1
+5, ε -> ε
+At state q4
+7, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+*, ε -> ε
+At state q1
+8, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+0, ε -> ε
+At state q5
+), ( -> ε
+At state q6
+/, ε -> ε 
+At state q1
+., ε -> ε
+At state q2
+3, ε -> ε
+At state q3
+3, ε -> ε
+At state q3
++, ε -> ε
+At state q1
+., ε -> ε
+At state q2
+0, ε -> ε
+At state q3
+), ( -> ε
+At state q6
+), ( -> ε
+At state q6
+%, % -> ε
+At state q7
+Accepted at state q7
+
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %.0*(32.922+.7-*9.))%
+Starting at state q0
+%, ε -> %
+At state q1
+., ε -> ε
+At state q2
+0, ε -> ε
+At state q3
+*, ε -> ε
+At state q1
+(, ε -> (
+At state q1
+3, ε -> ε
+At state q4
+2, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+9, ε -> ε
+At state q5
+2, ε -> ε
+At state q5
+2, ε -> ε
+At state q5
++, ε -> ε
+At state q1
+., ε -> ε
+At state q2
+7, ε -> ε
+At state q3
+-, ε -> ε
+At state q1
+Crashed at q1
+
+
+Do you want to enter a string? (y/n): y
+Enter a string over Σ: %(4.+(.8-9.))/2.)*3.4+(5.21/34.2%
+Starting at state q0
+%, ε -> %
+At state q1
+(, ε -> (
+At state q1
+4, ε -> ε
+At state q4
+., ε -> ε
+At state q5
++, ε -> ε
+At state q1
+(, ε -> (
+At state q1
+., ε -> ε
+At state q2
+8, ε -> ε
+At state q3
+-, ε -> ε
+At state q1
+9, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+), ( -> ε
+At state q6
+), ( -> ε
+At state q6
+/, ε -> ε 
+At state q1
+2, ε -> ε
+At state q4
+., ε -> ε
+At state q5
+Crashed at q5
+
+
+Do you want to enter a string? (y/n): n
+----------------------
